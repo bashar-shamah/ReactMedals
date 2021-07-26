@@ -1,0 +1,36 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+.right-float {
+float:right
+}
+.right-align {
+	text-align: center;
+	direction: rtl;
+}
+.table th, .table td {
+	text-align:right
+}
+.MuiDataGrid-row.Mui-odd {
+	background-color: aliceblue;
+}
+.MuiDataGrid-cell {
+	text-align: center !important;
+}
+.MuiDataGrid-columnHeader {
+	font-size: medium !important;
+}
+.MuiDataGrid-columnHeaderWrapper {
+	background-color: beige !important;
+}
